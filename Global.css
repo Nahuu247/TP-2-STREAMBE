@@ -1,0 +1,85 @@
+html {
+  background-color: #CADEED;
+}
+
+ul {
+  list-style-type: none;
+  display: inline;
+}
+
+#copy {
+  height: auto;
+  width: auto;
+  margin: 10px;
+  background-color: #8FBEDC;
+}
+
+.Cuerpo {
+  height: auto;
+  width: 100%;
+  background-color: #8FBEDC;
+  opacity: 0.6;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 20px;
+  border-width: 5px;
+  border-color: darkmagenta;
+}
+
+.title {
+  height: 150px;
+  width: 100%;
+  background-color: #8FBEDC;
+  opacity: 0.6;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 20px;
+}
+
+.TextBox {
+  margin-top: 15px;
+  height: auto;
+  background-color: #8FBEDC;
+  border-radius: 20px;
+  opacity: 0.6;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+}
+
+.Link {
+  text-decoration: none;
+  color: black;
+}
+
+.Promos {
+  width: 15%;
+  height: 200px;
+  margin-top: 15px;
+  height: auto;
+  background-color: #8FBEDC;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+}
+
+.producto {
+  background-color: #8FBEDC;
+  border: 1px solid black;
+  width: 240px;
+  height: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+}
+.img {
+  border: 1px solid black;
+}
+.contenido {
+  margin: 15px;
+  padding: 8px;
+}
